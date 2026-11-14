@@ -13,17 +13,6 @@ This repository documents my journey of learning machine learning concepts throu
 - Explore model optimization and hyperparameter tuning.
 - Build a strong foundation in Deep Learning and Natural Language Processing.
 
-## Repository Structure
-
-| Directory | Topics |
-|---|---|
-| `01-regression/` | Linear Regression, Decision Trees, Random Forests and other regression methods |
-| `02-classification/` | Logistic Regression, KNN, SVM and classification models |
-| `03-clustering/` | K-Means, DBSCAN and unsupervised learning |
-| `04-ensemble-learning/` | Bagging, Boosting and ensemble techniques |
-| `05-deep-learning/` | Neural networks and deep learning architectures |
-| `06-nlp/` | Natural Language Processing and language models |
-| `07-experiments/` | Algorithm comparisons and exploratory experiments |
 
 ## Completed Experiments
 
