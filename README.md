@@ -46,7 +46,7 @@ Implemented an end-to-end regression workflow using the California Housing datas
 | Test RMSE | 47,197.67 |
 | Test MAE | 30,929.48 |
 
-**Notebook:** [California Housing Price Prediction](01-regression/california-housing/California_House_Price_Prediction.ipynb)
+**Notebook:** [California_House_Price_Prediction.ipynb](01-regression/california-housing/California_House_Price_Prediction.ipynb)
 
 ## Tools and Technologies
 
